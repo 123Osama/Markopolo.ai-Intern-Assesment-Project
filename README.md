@@ -10,6 +10,7 @@ The dataset used for this assessment is the Wine Quality dataset, which consists
 In this repository, you will find two Colab notebook files:
 
 Intern assesment(winequality-red).ipynb: This notebook focuses on analyzing and visualizing the characteristics and quality of red wines.
+
 Intern assesment(winequality-white).ipynb: This notebook focuses on analyzing and visualizing the characteristics and quality of white wines.
 
 
